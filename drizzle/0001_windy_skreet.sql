@@ -1,0 +1,1 @@
+CREATE INDEX `idx_applicants_created_at` ON `applicants` (`created_at`);
